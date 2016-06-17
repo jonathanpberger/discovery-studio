@@ -1,10 +1,8 @@
 ---
 layout: default
-img: dog.png
+img: incept.jpg
 category: Services
-title: 3D Device Mockups<br>by PSDCovers
+title: Inception
 description: |
 ---
-  Turn your 2D designs into high quality, 3D
-  product shots in seconds using free Photoshop actions by [PSDCovers](http://www.psdcovers.com/)! Visit
-  their website to download some of their awesome, free photoshop actions!
+  Taking a validated product from concept to reality requires creativity, communication, and rigor. Our battle-tested process has been used by hundreds of teams in every imaginable sector and size. A Discovery Inception will allow you to build and run a project with a minimum of overhead and a maximum of awesome.

@@ -10,16 +10,16 @@ html {
     height: 100%;
 }
 
-body,
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-    font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 700;
-}
+// body,
+// h1,
+// h2,
+// h3,
+// h4,
+// h5,
+// h6 {
+//     font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
+//     font-weight: 700;
+// }
 
 .lead {
     font-size: 18px;
@@ -31,8 +31,9 @@ h6 {
     padding-bottom: 50px;
     text-align: center;
     color: #f8f8f8;
-    background: url(../img/pattern-768.svg) no-repeat center center;
+    background: url(../img/at_whiteboard.png) no-repeat center center;
     background-size: cover;
+    // max-height: 300px;
 }
 
 .intro-message {

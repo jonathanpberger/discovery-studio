@@ -1,6 +1,6 @@
 ---
 layout: default
-img: enable.jpg
+img: enable-color.jpg
 category: Services
 title: Discover Digital Transformation
 description: |

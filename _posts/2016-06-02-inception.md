@@ -1,6 +1,6 @@
 ---
 layout: default
-img: incept.jpg
+img: incept-color.jpg
 category: Services
 title: Discover Inception
 description: |

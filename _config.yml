@@ -4,7 +4,7 @@
 
 url: http://discovery.works
 title: Discovery Studio
-email: discovery@berger.wtf
+email: discoverystudio@berger.wtf
 author: jpb
 description: > # "Write an awesome description for your new site here.
   Discovery Studio helps you build digital product with a world-class background in agile software deveolpment and product design.
@@ -26,11 +26,9 @@ permalink: pretty
 
 social:
   - title: twitter
-    url: https://twitter.com/disc0verylabs
+    url: https://twitter.com/dscostudio
   - title: github
     url: https://github.com/jonathanpberger
-  - title: linkedin
-    url:
 
 # ----------------------- #
 #   Heroku Settings (from https://www.jamesward.com/2014/09/24/jekyll-on-heroku)

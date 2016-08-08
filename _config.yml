@@ -29,10 +29,3 @@ social:
     url: https://twitter.com/dscostudio
   - title: github
     url: https://github.com/jonathanpberger
-
-# ----------------------- #
-#   Heroku Settings (from https://www.jamesward.com/2014/09/24/jekyll-on-heroku)
-# ----------------------- #
-
-gems: ['kramdown']
-exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor', 'Procfile', 'Rakefile']
